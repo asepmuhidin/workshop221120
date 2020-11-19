@@ -4,5 +4,5 @@
   <li> Slide Presentasi ke-1 (workshop.pdf)</li>
   <li> Slide Presentasi ke-2 (Get Started with Google Colab for Machine Learning and Deep Learning (1).pdf)</li>
   <li> Dataset Workshop (headbrain.csv)</li>
-  <li> Jupyter Python workshop (workshop_ML_Python.ipynb)</li>
+  <li> Jupyter Notebook Python workshop (workshop_ML_Python.ipynb)</li>
 <ol>    
